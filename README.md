@@ -1,5 +1,6 @@
 # CodeGen
-mybatis-逆向工程生成代码demo
+mybatis-逆向工程demo
+生成代码mapper,xml,entity
 
 ```
 <!--引入mybatis-generator-->
